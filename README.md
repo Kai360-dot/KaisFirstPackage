@@ -1,2 +1,0 @@
-# KaisFirstPackage
-First Python Package
