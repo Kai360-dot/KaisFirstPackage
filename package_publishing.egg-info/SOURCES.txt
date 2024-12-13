@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+package_folder/__init__.py
+package_folder/module_1.py
+package_folder/module_2.py
+package_publishing.egg-info/PKG-INFO
+package_publishing.egg-info/SOURCES.txt
+package_publishing.egg-info/dependency_links.txt
+package_publishing.egg-info/top_level.txt
+tests/__init__.py
+tests/test_module_1.py
